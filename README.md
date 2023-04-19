@@ -7,17 +7,16 @@ In my spare time you can find me outside, riding bikes on a variety of different
 
 <br>
 
-# Stack
 ### Languages: 
 ![My Skills](https://skillicons.dev/icons?i=py,js,html,css)
 
 ### Frameworks:
 ![My Skills](https://skillicons.dev/icons?i=react,django,nodejs,express,bootstrap,tailwind,jquery,sass)
 
-### Databases
+### Databases:
 ![My Skills](https://skillicons.dev/icons?i=postgres,mongodb,sqlite,gcb)
 
-### Tools
+### Tools:
 ![My Skills](https://skillicons.dev/icons?i=heroku,figma,git,github,aws,vite,postman,docker,vscode,stackoverflow)
 
 <br>
