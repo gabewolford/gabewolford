@@ -23,6 +23,20 @@ In my spare time you can find me outside, riding bikes on a variety of different
 
 # Projects
 
+## &#128640; Launchbreak  &#128752;
+
+### Full-Stack React Application
+
+Designed and developed a responsive MERN-stack app hosted on Heroku with full CRUD capabilities, using React, Express, MongoDB, Node, JavaScript, TailwindCSS, Figma, and VS Code.
+
+This app is for launch lovers and space fanatics. It uses real-time data from two robust API's, and the idea is that Launchbreak is somewhere you can visit on your lunchbreak (or whenever) and catch up on recent space news and upcoming launches in just a few clicks.
+
+### Check it out here : [launchbreak.herokuapp.com](https://launchbreak.herokuapp.com/)
+
+![launchbreak-mockup](https://user-images.githubusercontent.com/98293872/235316019-ea7b2a9a-9bb8-41af-9de2-1ac426981021.png)
+
+<hr>
+
 ## 🛸 [Anomalies Anonymous](https://www.anomaliesanonymous.com) 🛸
 
 ### Full-Stack Django Application
