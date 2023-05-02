@@ -33,7 +33,7 @@ This app is for launch lovers and space fanatics. It uses real-time data from tw
 
 ### Check it out here : [launchbreak.herokuapp.com](https://launchbreak.herokuapp.com/)
 
-![launchbreak-mockup](https://user-images.githubusercontent.com/98293872/235316019-ea7b2a9a-9bb8-41af-9de2-1ac426981021.png)
+![launchbreak mockup](https://user-images.githubusercontent.com/98293872/235741613-2da1e62f-86cd-4e3c-ac8c-fb0d12415ecc.png)
 
 <hr>
 
