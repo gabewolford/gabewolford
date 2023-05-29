@@ -11,13 +11,13 @@ In my spare time you can find me outside, riding bikes on a variety of different
 ![My Skills](https://skillicons.dev/icons?i=py,js,html,css)
 
 ### Frameworks:
-![My Skills](https://skillicons.dev/icons?i=react,django,nodejs,express,bootstrap,tailwind,jquery,sass)
+![My Skills](https://skillicons.dev/icons?i=react,nextjs,django,nodejs,express,tailwind,bootstrap)
 
 ### Databases:
 ![My Skills](https://skillicons.dev/icons?i=postgres,mongodb,sqlite,gcb)
 
 ### Tools:
-![My Skills](https://skillicons.dev/icons?i=heroku,figma,git,github,aws,vite,postman,docker,vscode,stackoverflow)
+![My Skills](https://skillicons.dev/icons?i=vite,vercel,figma,git,github,aws,postman,vscode,stackoverflow,heroku)
 
 <br>
 
