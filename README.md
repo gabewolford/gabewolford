@@ -1,7 +1,5 @@
 # Hello world :wave:
-I'm **Gabe** (he/him), a **full stack developer** based in **Portland, Oregon**. 
-
-Prior to making the transition to tech, I spent nearly a decade in the music industry, where I worked in live production, touring, labels, streaming, startups, and experiential agencies. Combining my sharp eye for detail and strong analytical skills, I have a knack for operations and thrive on crafting awesome internal tools. My ultimate goal is to ensure exceptional user experiences, whether in the digital or physical realm.
+I'm **Gabe** (he/him), a **full stack developer** based in **Portland, Oregon** specializing in react applications and front-end technologies, with expertise in Next.js, Node.js, Tailwind, and responsive design. I have a proven ability to deliver high-quality & visually appealing web applications and skilled in building robust & scalable solutions. I collaborate well with cross-functional design & product teams every step of the way. I am committed to staying up-to-date with the latest trends and delivering exceptional user experiences.
 
 In my spare time you can find me outside, riding bikes on a variety of different surfaces. When I'm not doing that, I enjoy cooking, baking, hiking, and exploring the PNW with my dog and my partner. As a lifelong learner, space fanatic, and amateur astronomer, I love reading about the universe & the current state of space exploration. 🛰️ 🚀 📡
 
@@ -23,11 +21,25 @@ In my spare time you can find me outside, riding bikes on a variety of different
 
 # Projects
 
+## 🐟 Islamorada Fishing Guides & Charters 🐟
+
+### Headless Next.js/React Application
+
+Next.js, React, Node, Sanity, JavaScript/JSX, EmailJS, Tailwind, Figma
+
+Information architecture overhaul, SEO, rebrand, site migration, and frontend facelift.
+
+### Check it out here : [islamoradafishingguidesandcharters.com](https://islamoradafishingguidesandcharters.com/)
+
+![islamorada-mockup](https://github.com/gabewolford/gabewolford/assets/98293872/aee311ef-dbd1-4b36-9c2c-f1bdc971c18d)
+
+<hr>
+
 ## &#128640; Launchbreak  &#128752;
 
 ### Full-Stack React Application
 
-Designed and developed a responsive MERN-stack app hosted on Heroku with full CRUD capabilities, using React, Express, MongoDB, Node, JavaScript, TailwindCSS, Figma, and VS Code.
+Vite, React, Express, MongoDB, Node, JavaScript, TailwindCSS, Figma
 
 This app is for launch lovers and space fanatics. It uses real-time data from two robust API's, and the idea is that Launchbreak is somewhere you can visit on your lunchbreak (or whenever) and catch up on recent space news and upcoming launches in just a few clicks.
 
@@ -41,7 +53,7 @@ This app is for launch lovers and space fanatics. It uses real-time data from tw
 
 ### Full-Stack Django Application
 
-Designed and developed a responsive full-stack Django app hosted on Heroku with full CRUD capabilities, using Python, PostgreSQL, HTML JavaScript, CSS, Bootstrap, jQuery, geocoder, crispy forms, Git/GitHub, Figma, and VS Code.
+Django, Python, PostgreSQL, CSS, Bootstrap, jQuery, geocoder, crispy forms, Figma
 
 This app builds upon a NUFORC database of nearly 65,000 UFO sightings from around the United States dating from 1910-2014. Users are able to browse, search, and filter the sightings. By making an account, users can add their own sightings to the database and leave comments on sighting reports. A heat map offers a handy geo-spatial representation of sightings.
 
@@ -55,7 +67,7 @@ This app builds upon a NUFORC database of nearly 65,000 UFO sightings from aroun
 
 ### MEN-Stack Application
 
-Designed and developed a simple responsive full-stack app hosted on Heroku with full CRUD capabilities, using Node.js, EJS, MongoDB, Mongoose, Postman, CSS, Bootstrap, Git/GitHub, Figma, and VS Code.
+Node.js, EJS, MongoDB, Mongoose, Postman, CSS, Bootstrap, Figma
 
 This is like Craigslist, but for the 1%. Users can browse and filter for luxury items such as megayachts, private jets, luxury cars, private islands, fine art, and one-of-a-kind properties. They can post their own listings, edit them, and leave comments on listings.
 
