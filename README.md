@@ -6,7 +6,7 @@ In my spare time you can find me outside, riding bikes on a variety of different
 <br>
 
 ### Languages: 
-![My Skills](https://skillicons.dev/icons?i=py,js,html,css)
+![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,py,md,php)
 
 ### Frameworks:
 ![My Skills](https://skillicons.dev/icons?i=react,nextjs,django,nodejs,express,tailwind,bootstrap)
@@ -15,11 +15,25 @@ In my spare time you can find me outside, riding bikes on a variety of different
 ![My Skills](https://skillicons.dev/icons?i=postgres,mongodb,sqlite,gcb)
 
 ### Tools:
-![My Skills](https://skillicons.dev/icons?i=vite,vercel,figma,git,github,aws,postman,vscode,stackoverflow,heroku)
+![My Skills](https://skillicons.dev/icons?i=vite,vercel,figma,git,github,aws,postman,vscode,stackoverflow,heroku,discord)
 
 <br>
 
 # Projects
+
+## 💻 Biiig Stretch Studio 🖥️
+
+### Next.js/React Application
+
+Next.js, React, Node, JavaScript/JSX, Tailwind, Figma
+
+Landing page for development studio.
+
+### Check it out here : [biiigstretch.studio](https://biiigstretch.studio/)
+
+![biiig-stretch-mockup](https://github.com/gabewolford/gabewolford/assets/98293872/faddeb5e-3933-4868-b27c-2dec72c952a9)
+
+<hr>
 
 ## 🐟 Islamorada Fishing Guides & Charters 🐟
 
