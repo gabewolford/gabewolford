@@ -6,10 +6,10 @@ In my spare time you can find me outside, riding bikes on a variety of different
 <br>
 
 ### Languages: 
-![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,py,md,php)
+![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,py)
 
 ### Frameworks:
-![My Skills](https://skillicons.dev/icons?i=react,nextjs,django,nodejs,express,tailwind,bootstrap)
+![My Skills](https://skillicons.dev/icons?i=react,nextjs,nodejs,express,tailwind,django)
 
 ### Databases:
 ![My Skills](https://skillicons.dev/icons?i=postgres,mongodb,sqlite,gcb)
@@ -19,19 +19,19 @@ In my spare time you can find me outside, riding bikes on a variety of different
 
 <br>
 
-# Projects
+# Selected work
 
 ## 💻 Biiig Stretch Studio 🖥️
 
 ### Next.js/React Application
 
-Next.js, React, Node, JavaScript/JSX, Tailwind, Figma
+Next.js, React, Node, Tailwind, Figma
 
-Landing page for development studio.
+Landing page for web studio.
 
 ### Check it out here : [biiigstretch.studio](https://biiigstretch.studio/)
 
-![biiig-stretch-mockup](https://github.com/gabewolford/gabewolford/assets/98293872/faddeb5e-3933-4868-b27c-2dec72c952a9)
+![biiigstretch](https://github.com/gabewolford/gabewolford/assets/98293872/89a2af7f-58f5-4202-a70c-1cee08893f48)
 
 <hr>
 
@@ -39,13 +39,13 @@ Landing page for development studio.
 
 ### Headless Next.js/React Application
 
-Next.js, React, Node, Sanity, JavaScript/JSX, EmailJS, Tailwind, Figma
+Next.js, React, Node, Sanity CMS, JavaScript/JSX, EmailJS, Tailwind, Figma
 
 Information architecture overhaul, SEO, rebrand, site migration, and frontend facelift.
 
 ### Check it out here : [islamoradafishingguidesandcharters.com](https://islamoradafishingguidesandcharters.com/)
 
-![islamorada-mockup](https://github.com/gabewolford/gabewolford/assets/98293872/aee311ef-dbd1-4b36-9c2c-f1bdc971c18d)
+![islamorada](https://github.com/gabewolford/gabewolford/assets/98293872/3c769b7d-e783-4240-9ff3-0c8a1985e7d7)
 
 <hr>
 
@@ -74,21 +74,6 @@ This app builds upon a NUFORC database of nearly 65,000 UFO sightings from aroun
 ### Check it out here : [anomaliesanonymous.com](https://www.anomaliesanonymous.com)
 
 ![anonanon](https://user-images.githubusercontent.com/98293872/232971994-52f6fbbe-a44e-460a-8c59-7f4660cd4e33.png)
-
-<hr>
-
-## 💰 [Gregslist](https://gregslist.herokuapp.com/) 💰
-
-### MEN-Stack Application
-
-Node.js, EJS, MongoDB, Mongoose, Postman, CSS, Bootstrap, Figma
-
-This is like Craigslist, but for the 1%. Users can browse and filter for luxury items such as megayachts, private jets, luxury cars, private islands, fine art, and one-of-a-kind properties. They can post their own listings, edit them, and leave comments on listings.
-
-
-### Check it out here : [gregslist.herokuapp.com](https://gregslist.herokuapp.com/)
-
-![gregslist](https://user-images.githubusercontent.com/98293872/232972007-47517740-bc8e-421a-92ef-a1c40ac0afbf.png)
 
 <hr>
 
