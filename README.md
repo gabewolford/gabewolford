@@ -1,7 +1,7 @@
 # Hello world :wave:
-I'm **Gabe** (he/him), a **full stack developer** based in **Portland, Oregon** specializing in react applications and front-end technologies, with expertise in Next.js, Node.js, Tailwind, and responsive design. I have a proven ability to deliver high-quality & visually appealing web applications and skilled in building robust & scalable solutions. I collaborate well with cross-functional design & product teams every step of the way. I am committed to staying up-to-date with the latest trends and delivering exceptional user experiences.
+I'm **Gabe** a **design-oriented developer** with a deep background in the music industry, specializing in React and other front-end technologies. I have a proven ability to deliver scalable, accessible, performant, and visually appealing web applications that users love. I prefer building with Next.js, Node.js, Sanity, Tailwind, and Figma. My soft skills compliment my tech chops, allowing me to collaborate effectively with leadership, design, and engineering teams every step of the way. I'm a lightning-fast learner and am committed to delivering exceptional user experiences. 
 
-In my spare time you can find me outside, riding bikes on a variety of different surfaces. When I'm not doing that, I enjoy cooking, baking, hiking, and exploring the PNW with my dog and my partner. As a lifelong learner, space fanatic, and amateur astronomer, I love reading about the universe & the current state of space exploration. 🛰️ 🚀 📡
+When I'm not clacking away on the keys, I'm probably petting my dog, riding my bike, learning the art of bonsai, or reading about space. 🚀
 
 <br>
 
