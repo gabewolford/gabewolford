@@ -21,20 +21,6 @@ When I'm not clacking away on the keys, I'm probably petting my dog, riding my b
 
 # Selected work
 
-## 💻 Biiig Stretch Studio 🖥️
-
-### Next.js/React Application
-
-Next.js, React, Node, Tailwind, Figma
-
-Landing page for web studio.
-
-### Check it out here : [biiigstretch.studio](https://biiigstretch.studio/)
-
-![biiigstretch](https://github.com/gabewolford/gabewolford/assets/98293872/89a2af7f-58f5-4202-a70c-1cee08893f48)
-
-<hr>
-
 ## 🐟 Islamorada Fishing Guides & Charters 🐟
 
 ### Headless Next.js/React Application
@@ -48,6 +34,18 @@ Information architecture overhaul, SEO, rebrand, site migration, and frontend fa
 ![islamorada](https://github.com/gabewolford/gabewolford/assets/98293872/3c769b7d-e783-4240-9ff3-0c8a1985e7d7)
 
 <hr>
+
+## 💻 Biiig Stretch Studio 🖥️
+
+### Next.js/React Application
+
+Next.js, React, Node, Tailwind, Figma
+
+Landing page for web studio.
+
+### Check it out here : [biiigstretch.studio](https://biiigstretch.studio/)
+
+![biiigstretch](https://github.com/gabewolford/gabewolford/assets/98293872/89a2af7f-58f5-4202-a70c-1cee08893f48)
 
 ## &#128640; Launchbreak  &#128752;
 
