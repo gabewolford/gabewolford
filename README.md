@@ -9,7 +9,7 @@ When I'm not clacking away on the keys, I'm probably petting my dog, riding my b
 ![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,py)
 
 ### Frameworks:
-![My Skills](https://skillicons.dev/icons?i=react,nextjs,nodejs,express,tailwind,django)
+![My Skills](https://skillicons.dev/icons?i=react,nextjs,nodejs,express,tailwind,django,vue,nuxt)
 
 ### Databases:
 ![My Skills](https://skillicons.dev/icons?i=postgres,mongodb,sqlite,gcb)
