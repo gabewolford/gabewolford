@@ -25,7 +25,7 @@ When I'm not clacking away on the keys, I'm probably petting my dog, riding my b
 
 ### Headless Next.js/React Application
 
-Next.js, React, Node, Sanity CMS, JavaScript/JSX, EmailJS, Tailwind, Figma
+Next.js, React, Node, Sanity CMS, JavaScript/JSX, EmailJS, Tailwind, Figma, Vercel
 
 Information architecture overhaul, SEO, rebrand, site migration, and frontend facelift.
 
@@ -39,13 +39,27 @@ Information architecture overhaul, SEO, rebrand, site migration, and frontend fa
 
 ### Headless Vue/Nuxt.js Application
 
-Nuxt.js, Node, Sanity, JavaScript, EmailJS, Tailwind, Figma
+Nuxt.js, Node, Sanity, JavaScript, EmailJS, Tailwind, Figma, Vercel
 
 Frontend development, web design, SEO, site migration.
 
 ### Check it out here : [vertoutdoors.com](https://vert-outdoors.vercel.app/)
 
 ![vert](https://github.com/gabewolford/gabewolford/assets/98293872/a8383dd1-4682-438f-8ca6-fb78495a451e)
+
+<hr>
+
+## 🚴🏻‍♂️ Team Oregon 🚴🏽‍♀️
+
+### Headless Next.js/React Application
+
+Next.js, Node, Sanity, JavaScript/JSX, EmailJS, Paypal, MongoDB, NextAuth, Tailwind, Figma, Vercel
+
+Full stack development, web design, membership capabilities, SEO, site migration, hosting.
+
+### Check it out here : [teamoregon.cc](https://team-oregon.vercel.app/)
+
+![teamo](https://github.com/gabewolford/gabewolford/assets/98293872/bff89e76-4046-4027-a573-dab403752730)
 
 <hr>
 
