@@ -19,7 +19,7 @@ When I'm not clacking away on the keys, I'm probably petting my dog, riding my b
 
 <br>
 
-# Selected work
+# Highlighted work
 
 ## 🐟 Islamorada Fishing Guides & Charters 🐟
 
