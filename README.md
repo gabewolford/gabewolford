@@ -35,6 +35,20 @@ Information architecture overhaul, SEO, rebrand, site migration, and frontend fa
 
 <hr>
 
+## 🏔 VERT Outdoors 🧗🏽‍♀️
+
+### Headless Vue/Nuxt.js Application
+
+Nuxt.js, Node, Sanity, JavaScript, EmailJS, Tailwind, Figma
+
+Frontend development, web design, SEO, site migration.
+
+### Check it out here : [vertoutdoors.com](https://vert-outdoors.vercel.app/)
+
+![vert](https://github.com/gabewolford/gabewolford/assets/98293872/a8383dd1-4682-438f-8ca6-fb78495a451e)
+
+<hr>
+
 ## 💻 Biiig Stretch Studio 🖥️
 
 ### Next.js/React Application
@@ -57,7 +71,7 @@ This app is for launch lovers and space fanatics. It uses real-time data from tw
 
 ### Check it out here : [launchbreak.herokuapp.com](https://launchbreak.herokuapp.com/)
 
-![launchbreak mockup](https://user-images.githubusercontent.com/98293872/235741613-2da1e62f-86cd-4e3c-ac8c-fb0d12415ecc.png)
+![Group 16](https://github.com/gabewolford/gabewolford/assets/98293872/c0baef13-7f8c-41fb-ba89-1e0c18407306)
 
 <hr>
 
