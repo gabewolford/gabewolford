@@ -1,5 +1,5 @@
 # Hello world :wave:
-I'm **Gabe** a **design-oriented developer** with a deep background in the music industry, specializing in React and other front-end technologies. I have a proven ability to deliver scalable, accessible, performant, and visually appealing web applications that users love. I prefer building with Next.js/Nuxt.js, Node.js, Sanity, Tailwind, and Figma. My soft skills compliment my tech chops, allowing me to collaborate effectively with leadership, design, and engineering teams every step of the way. I'm a lightning-fast learner and am committed to delivering exceptional user experiences. 
+I'm **Gabe** a **design-minded developer** with a deep background in the music industry, specializing in React and other front-end technologies. I have a proven ability to deliver scalable, accessible, performant, and visually appealing web applications that users love. I prefer building with Next.js/Nuxt.js, Node.js, Sanity, Tailwind, and Figma. My soft skills compliment my tech chops, allowing me to collaborate effectively with leadership, design, and engineering teams every step of the way. I'm a lightning-fast learner and am committed to delivering exceptional user experiences. 
 
 When I'm not clacking away on the keys, I'm probably petting my dog, riding my bike, learning the art of bonsai, or reading about space. 🚀
 
