@@ -1,1 +1,3 @@
+![beavis](https://github.com/user-attachments/assets/25dd1eae-7634-46f6-acfb-90f7afc5371f)
+
 I'm a design-minded developer specializing in the front end, design systems, structured content management systems, and component-based architecture. I enjoy solving challenging problems and have a proven ability to write clean, semantic, maintainable code and deliver scalable, accessible, performant, and visually appealing web applications that users love. My soft skills complement my tech chops, allowing me to collaborate effectively with leadership, marketing, design, and engineering teams every step of the way. When I’m not clacking away on the keys, I'm probably petting my dog, rowing, or reading about space.
